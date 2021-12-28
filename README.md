@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Suhas
-- 👀 I’m interested in Web Development ❤️
-- 🌱 I’m currently learning Typescript and Angular
+- 👀 I’m interested in Web3.0,Javascript ❤️
+- 🌱 I’m currently learning Go🚀
 - 📫 How to reach me - suhasbdvt6@gmail.com
 
 <!---
