@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Suhas
-- 👀 I’m interested in Web3.0,Javascript ❤️
+- 👀 I’m interested in Cloud, DevOps & Go ❤️
 - 🌱 I’m currently learning Go🚀
 - 📫 How to reach me - suhasbdvt6@gmail.com
 
