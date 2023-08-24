@@ -1,20 +1,15 @@
-- 👋 Hi, I’m Suhas
-- 👀 I’m interested in Cloud, DevOps & Go ❤️
-- 🌱 I’m currently learning Go🚀
-- 📫 How to reach me - suhasbdvt6@gmail.com
-
 <h1 align="center">Hi 👋, I'm Suhas</h1>
 <h3 align="center">Passionate SRE professional with experience in incident management, automation, and cloud infrastructure. Continuously learning and improving reliability skills</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhas-24&label=Profile%20views&color=0e75b6&style=flat" alt="suhas-24" /> </p>
 
-- 🔭 I’m currently working on **AMERICAN EXPRESS**
+- 🔭 I’m currently working at **Infosys** | Client **AMERICAN EXPRESS**
 
-- 🌱 I’m currently learning **GoLang, SRE best practices, Cloud, Kubernetes**
+- 🌱 I’m actively learning **GoLang, SRE best practices, Cloud, Kubernetes**
 
 - 👯 I’m looking to collaborate on **GoLang projects**
 
-- 💬 Ask me about **GoLang, Cloud, Networking**
+- 💬 Ask me about **GoLang, Cloud, Networking, DevOps**
 
 - 📫 How to reach me **suhasbdvt6@gmail.com**
 
