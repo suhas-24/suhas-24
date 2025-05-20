@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Suhas C - Interactive Resume</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <nav id="navbar">
+        <div class="container nav-container">
+            <a href="#summary" class="nav-logo">Suhas C</a>
+            <ul>
+                <li><a href="#summary">Summary</a></li>
+                <li><a href="#experience">Experience</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#education">Education</a></li>
+                <li><a href="#projects">Projects</a></li>
+            </ul>
+        </div>
+    </nav>
+    <div class="container">
+        <header>
+            <h1>Suhas C</h1>
+            <p>
+                Phone: +91 8217893348 | Address: Bhadravati, Karnataka, India <br>
+                Email: <a href="mailto:suhasbdvt6@gmail.com">suhasbdvt6@gmail.com</a> | 
+                LinkedIn: <a href="https://www.linkedin.com/in/suhas24" target="_blank">linkedin.com/in/suhas24</a> | 
+                GitHub: <a href="https://github.com/suhas-24" target="_blank">github.com/suhas-24</a>
+            </p>
+        </header>
+
+        <main>
+            <section id="summary" class="resume-section">
+                <h2>SUMMARY</h2>
+                <p>Results-driven Site Reliability Engineer with 3.6 years of experience in optimizing system performance, reliability, and scalability for distributed and cloud-native applications. Proficient in Kubernetes, HPA, cloud platforms, and observability tools like OpenSearch and Splunk. Experienced in automating data pipeline monitoring, incident management, and system health assessments to ensure data and infrastructure reliability. Skilled in cross-functional collaboration to design resilient, scalable solutions with a strong focus on operational excellence, data observability, and performance optimization. Passionate about improving system uptime, developing robust automation workflows, and driving continuous service improvement initiatives aligned to SRE best practices.</p>
+            </section>
+
+            <section id="experience" class="resume-section">
+                <h2>EXPERIENCE</h2>
+                <div class="experience-item">
+                    <h3>Site Reliability Engineer</h3>
+                    <p><em>Aug 2021 - Present</em> | Infosys Limited | Bangalore, IN</p>
+                    <h4>Project: Global Loyalty and Benefits Platform</h4>
+                    <ul>
+                        <li>Collaborated with cross-functional teams (developers, data engineers, and platform teams) to enhance system reliability, reduce operational costs, and optimize data processing pipelines.</li>
+                        <li>Designed and implemented Horizontal Pod Autoscaler (HPA) configurations to enable automatic scaling of Kubernetes workloads based on dynamic resource utilization patterns.</li>
+                        <li>Built proactive alerting mechanisms and dashboards using OpenSearch and Splunk to monitor data pipeline health, application performance, and infrastructure metrics, improving issue detection and response.</li>
+                        <li>Developed automation scripts using Golang and Python to monitor critical data events, perform log analysis, and reduce manual intervention in incident resolution workflows.</li>
+                        <li>Led root cause analysis and post-incident reviews for complex production issues, driving corrective actions and preventive measures to improve system resiliency.</li>
+                        <li>Automated data collection and validation processes, ensuring data consistency and reducing human errors in production data pipelines.</li>
+                        <li>Authored and maintained detailed SOPs, playbooks, and knowledge articles on Confluence, standardizing operational tasks and ensuring consistent incident response.</li>
+                        <li>Spearheaded efforts to integrate observability patterns (metrics, traces, logs) for distributed services, improving end-to-end system visibility and reducing MTTR by 40%.</li>
+                        <li>Managed and optimized Kubernetes-based deployments, including containerized microservices, reducing deployment cycles and enabling zero-downtime updates.</li>
+                        <li>Handled capacity planning and resource optimization in cloud environments, ensuring availability and performance during peak loads while maintaining cost efficiency.</li>
+                        <li>Conducted pre- and post-deployment validations, including service availability checks and automated reporting on system health during patching and upgrades.</li>
+                        <li>Resolved 75+ high-priority production incidents involving data flow failures, infrastructure bottlenecks, and cloud resource constraints, ensuring SLAs were consistently met.</li>
+                    </ul>
+                </div>
+            </section>
+
+            <section id="skills" class="resume-section">
+                <h2>SKILLS</h2>
+                <dl>
+                    <dt>SRE Practices:</dt>
+                    <dd>Incident Management, SLAs/SLOs/SLIs, Data Observability, Root Cause Analysis</dd>
+                    <dt>Monitoring:</dt>
+                    <dd>Splunk, OpenSearch Dashboards, Grafana, Prometheus</dd>
+                    <dt>Automation:</dt>
+                    <dd>Golang, Python, Shell Scripting, API Integrations</dd>
+                    <dt>Cloud:</dt>
+                    <dd>AWS, Kubernetes, Docker, Cloud Resource Optimization, Scaling</dd>
+                    <dt>DevOps:</dt>
+                    <dd>CI/CD, GitLab, Jenkins, Deployment Automation, Service Health Checks</dd>
+                    <dt>Data Technologies:</dt>
+                    <dd>MySQL, Event-driven Architecture, Data Pipeline Observability</dd>
+                    <dt>Tools:</dt>
+                    <dd>JIRA, ServiceNow, Confluence, Agile Methodology</dd>
+                    <dt>Soft Skills:</dt>
+                    <dd>Problem-solving, Collaboration, Communication, Documentation</dd>
+                </dl>
+            </section>
+
+            <section id="education" class="resume-section">
+                <h2>EDUCATION</h2>
+                <h3>Bachelor of Engineering</h3>
+                <p>SDM Institute of Technology, Ujire | 2017 - 2021</p>
+                <p>Field: Computer Science and Engineering</p>
+                <p>CGPA: 7.0 CGPA</p>
+            </section>
+
+            <section id="projects" class="resume-section">
+                <h2>PROJECTS</h2>
+                <div class="project-item">
+                    <h3>Automated Data Error Detection and Log Retrieval</h3>
+                    <ul>
+                        <li>Developed a Golang-based automation leveraging Splunk API to dynamically fetch and analyze error logs, reducing time to detect data anomalies and pipeline failures.</li>
+                        <li>Implemented robust error handling and retries, ensuring accurate and reliable log collection for incident analysis.</li>
+                        <li>Enhanced data pipeline observability by correlating error patterns with upstream data processing components.</li>
+                    </ul>
+                </div>
+                <div class="project-item">
+                    <h3>Server Patching and Data Pipeline Validation Automation</h3>
+                    <ul>
+                        <li>Built automation to validate over 10+ services and critical data pipelines pre- and post-patching, generating real-time health reports.</li>
+                        <li>Enabled proactive detection of service disruptions, ensuring smooth and error-free patch deployments.</li>
+                    </ul>
+                </div>
+                <div class="project-item">
+                    <h3>Loyalty Events Dashboard for Data Observability</h3>
+                    <ul>
+                        <li>Designed and developed a React and Golang-based dashboard to monitor and analyze loyalty event data, improving event pipeline visibility and data integrity by 50%.</li>
+                        <li>Integrated Splunk for end-to-end log tracing and observability, facilitating quicker anomaly detection in event-processing.</li>
+                        <li>Containerized the application with Docker for scalable, consistent deployment, improving deployment efficiency and reducing environment-specific issues.</li>
+                    </ul>
+                </div>
+            </section>
+        </main>
+    </div>
+</body>
+</html>
